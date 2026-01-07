@@ -1,22 +1,27 @@
 var addressPoints = [
   [
-    "Conference Proceeding talk 3 on Relevant Topic in Your Field<br />Testing Institute of America 2014 Annual Conference; Los Angeles, CA, USA",
-    34.0536909,
-    -118.242766
+    "Free and Open Source Licences<br />Instituto de Astrof\u00edsica de Andaluc\u00eda; Granada, Spain",
+    37.1734995,
+    -3.5995337
   ],
   [
-    "Talk 2 on Relevant Topic in Your Field<br />London School of Testing; London, UK",
-    51.5074456,
-    -0.1277653
+    "Pint of Science: Ciencia abierta para cambiar el mundo<br />Lemon Rock; Granada, Spain",
+    37.1734995,
+    -3.5995337
   ],
   [
-    "Tutorial 1 on Relevant Topic in Your Field<br />UC-Berkeley Institute for Testing Science; Berkeley, CA, USA",
-    37.8708393,
-    -122.272863
+    "Videogames: a great testing ground for evolutionary computing<br />SPECIES Summer School 2025; Moraira, Valencia, Spain",
+    38.6880943,
+    0.1344619
   ],
   [
-    "Talk 1 on Relevant Topic in Your Field<br />UC San Francisco, Department of Testing; San Francisco, CA, USA",
-    37.7879363,
-    -122.4075201
+    "\u00bfSe puede hacer ciencia con los videojuegos?<br />Teatro Isabel la Cat\u00f3lica; Granada, Spain",
+    37.1734995,
+    -3.5995337
+  ],
+  [
+    "Free and Open-Source Software: Concepts and Philosophy<br />Vilnius University; Vilnius, Lithuania",
+    54.6870458,
+    25.2829111
   ]
 ];
