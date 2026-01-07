@@ -23,7 +23,7 @@ repository               : "fergunet/fergunet.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "profile.jpg"
   name             : "Pablo García Sánchez"
   pronouns         : # example: "she/her"  
   bio              : "Associate Professor at the University of Granada. Researcher in  Artificial Intelligence and Green Computing."  # A short bio to be shown in the author profile section
@@ -227,7 +227,7 @@ collections:
   publications:
     output: true
     permalink: /:collection/:path/
-  portfolio:
+  projects:
     output: true
     permalink: /:collection/:path/
   talks:
