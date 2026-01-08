@@ -11,35 +11,38 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Ph.D in Computer Science and Engineering, University of Granada, 2014
+* M.S. in Computer Engineering and Computer Networks, University of Granada, 2014
+* B.S. Computer Science and Engineering, University of Granada, 2007
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* Since 2021: Associate Professor
+  * University of Granada
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* 2016-2021: Substitute Lecturer
+  * University of Cádiz
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* 2015: Postdoc researcher
+  * University of Granada
+  * Topics: distributed multi-objective evolutionary algorithms
+
+* 2010-2014: FPU Award
+  * Obtained Grant to develop my thesis full-time
+  * University of Granada
+
+* 2006-2010: Research Assistant in several projects
+  * University of Granada
+  * Topics: ambient intelligence, evolutionary algorithms, service oriented architectures, e-health
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Artificial Intelligence
+  * Evolutionary Algorithms
+  * Machine Learning
+  * Applications: Videogames
+* Green Computing
+* Distributed Algorithms
 
 Publications
 ======
@@ -52,7 +55,13 @@ Talks
   <ul>{% for post in site.talks reversed %}
     {% include archive-single-talk-cv.html  %}
   {% endfor %}</ul>
-  
+
+Projects
+======
+  <ul>{% for post in site.projects reversed %}
+    {% include archive-single-cv.html %}
+  {% endfor %}</ul>
+
 Teaching
 ======
   <ul>{% for post in site.teaching reversed %}
@@ -61,4 +70,6 @@ Teaching
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Head of the [Office for Free Software](https://osl.ugr.es) since 2021
+* Head of the GPU Solutions-UGR Chair of Accelerated Computing Infrastructure and Sustainable AI sicne 2025
+* Elected member of the university council since 2025
