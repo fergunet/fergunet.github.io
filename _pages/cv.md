@@ -43,6 +43,7 @@ Skills
   * Applications: Videogames
 * Green Computing
 * Distributed Algorithms
+* Free Software and Open Science
 
 Publications
 ======
@@ -71,5 +72,5 @@ Teaching
 Service and leadership
 ======
 * Head of the [Office for Free Software](https://osl.ugr.es) since 2021
-* Head of the GPU Solutions-UGR Chair of Accelerated Computing Infrastructure and Sustainable AI sicne 2025
+* Head of the GPU Solutions-UGR Chair of Accelerated Computing Infrastructure and Sustainable AI since 2025
 * Elected member of the university council since 2025
