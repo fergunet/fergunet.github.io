@@ -8,4 +8,4 @@ date: 2022-05-28
 location: "Granada, Spain"
 ---
 
-[https://granada.hablandodeciencia.com/programa-desgranando-ciencia-8/]
+10 minutes flash talk about the science in videogames during the [Desgranando Ciencia 2022](https://granada.hablandodeciencia.com/programa-desgranando-ciencia-8/) popular science festival.
