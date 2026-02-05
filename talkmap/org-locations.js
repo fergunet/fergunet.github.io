@@ -10,7 +10,7 @@ var addressPoints = [
     -3.5995337
   ],
   [
-    "Videogames: a great testing ground for evolutionary computing<br />SPECIES Summer School 2025; Moraira, Valencia, Spain",
+    "Videogames: a great testing ground for evolutionary computing<br />SPECIES Summer School 2022; Moraira, Valencia, Spain",
     38.6880943,
     0.1344619
   ],
