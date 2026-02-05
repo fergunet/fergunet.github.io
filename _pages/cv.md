@@ -12,7 +12,7 @@ redirect_from:
 Education
 ======
 * Ph.D in Computer Science and Engineering, University of Granada, 2014
-* M.S. in Computer Engineering and Computer Networks, University of Granada, 2014
+* M.S. in Computer Engineering and Computer Networks, University of Granada, 2008
 * B.S. Computer Science and Engineering, University of Granada, 2007
 
 Work experience
@@ -45,13 +45,13 @@ Skills
 * Distributed Algorithms
 * Free Software and Open Science
 
-Publications
+Publications (selection)
 ======
   <ul>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Talks
+Talks (selection)
 ======
   <ul>{% for post in site.talks reversed %}
     {% include archive-single-talk-cv.html  %}
@@ -72,5 +72,5 @@ Teaching
 Service and leadership
 ======
 * Head of the [Office for Free Software](https://osl.ugr.es) since 2021
-* Head of the GPU Solutions-UGR Chair of Accelerated Computing Infrastructure and Sustainable AI since 2025
+* Head of the [GPU Solutions-UGR Chair of Accelerated Computing Infrastructure and Sustainable AI](https://catedras.ugr.es/gpusolutions) since 2025
 * Elected member of the university council since 2025

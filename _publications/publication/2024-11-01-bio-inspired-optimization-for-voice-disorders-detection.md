@@ -1,0 +1,12 @@
+---
+title: "Bio-inspired optimization of feature selection and SVM tuning for voice disorders detection"
+collection: publications
+category: manuscripts
+permalink: /publication/2024-11-01-bio-inspired-optimization-for-voice-disorders-detection
+excerpt: 'A hybrid bio-inspired optimization approach is developed to simultaneously perform feature selection and hyperparameter tuning for Support Vector Machines, applied to the automated detection of pathological voice conditions.'
+date: 2024-11-01
+venue: 'Knowledge-Based Systems'
+paperurl: 'https://www.sciencedirect.com/science/article/abs/pii/S0950705124015843'
+citation: 'Habib, M., Vicente-Palacios, V., & García-Sánchez, P. (2024). "Bio-inspired optimization of feature selection and SVM tuning for voice disorders detection." <i>Knowledge-Based Systems</i>. 310, 112950.'
+---
+Verbal communication is essential to human life, forming the foundation for self-expression and interaction. However, voice disorders pose a significant challenge, severely impeding communication ability. These disorders, which affect critical aspects of voice such as loudness, pitch, and resonance, disrupt speech and social and professional functioning. Often rooted in structural abnormalities of the vocal tract, voice disorders demand urgent attention, as early detection is paramount to ensuring timely and effective treatment. Addressing these issues is vital to restoring the fundamental human ability to connect and communicate. This study employs a bio-inspired machine learning approach to detect voice disorders, aiming to evaluate the effectiveness of simpler methods, excluding deep learning. The research applies three bio-inspired optimization algorithms — Genetic Algorithm (GA), Particle Swarm Optimizer (PSO), and Whale Optimization Algorithm (WOA) — as wrapper-based feature selection methods, with Support Vector Machine (SVM) serving as the base learner. The approach focuses on optimizing SVM parameters (cost and gamma) while identifying the most critical features for voice disorder detection. Experiments were conducted on three datasets, with performance evaluated using recall, precision, and F1-score. The GA achieved the highest F1-score (96.3%) on the first dataset, while WOA demonstrated superior performance on the second and third datasets, with F1-scores of 71.8% and 42.3%, respectively. Feature importance analysis using the SHAP algorithm highlighted Mel spectrogram, temporal correlation, and fast Fourier transform features as key contributors to improving prediction accuracy.
